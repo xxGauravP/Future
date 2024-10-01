@@ -1,5 +1,5 @@
 import java.util.*;
- public class Main{
+ public class palindrome{
             public static void main(String[] args){
                 Scanner str =new Scanner(System.in);
                 String s = str.nextLine();
